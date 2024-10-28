@@ -34,7 +34,7 @@ Primero, definimos las rutas de nuestro proyecto en el archivo `routes`. Usando 
 
 3. **Páginas de contenido:**
 
-Creamos los componentes `Home`, `Projects` y `  ` dentro de la carpeta `páginas` que se renderizarán en las rutas correspondientes. Estos componentes simplemente muestran un mensaje de bienvenida, una lista de proyectos y una lista de experiencias laborales y educativas, respectivamente.
+Creamos los componentes `Home`, `Projects` y `Resume` dentro de la carpeta `páginas` que se renderizarán en las rutas correspondientes. Estos componentes simplemente muestran un mensaje de bienvenida, una lista de proyectos y una lista de experiencias laborales y educativas, respectivamente.
 
 - Home: Bienvenida y enlaces a projects y resume 
 - Projects: información de `project.js`
